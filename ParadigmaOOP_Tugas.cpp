@@ -2,4 +2,5 @@
 using namespace std;
 
 class Barang {
-    public:
+public:
+    string nama;
