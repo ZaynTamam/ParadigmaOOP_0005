@@ -15,3 +15,10 @@ public:
         cout << "Tanggal Produksi: " << tanggalProduksi << endl;
     }
 }; // batas kelas
+
+int main() {
+    Barang Elektronik;
+    Elektronik.nama = "Laptop";
+    Elektronik.jumlah = 20;
+    Elektronik.kategori = "Elektronik";
+    Elektronik.tanggalProduksi = "2022-01-15";
