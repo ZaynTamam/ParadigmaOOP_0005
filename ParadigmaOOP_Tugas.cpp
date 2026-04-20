@@ -7,3 +7,5 @@ public:
     int jumlah;
     string kategori;
     string tanggalProduksi;
+
+    void printInfo() 
